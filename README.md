@@ -31,11 +31,6 @@ La app consta de **6 pantallas**:
    - Vista completa de la receta seleccionada.  
    - Ingredientes, pasos y opciones para guardar en favoritos.  
 
-6. **Logout**  
-   - Pantalla de cierre de sesión.  
-
-
-
 
 ## ⚙️ Instalación y ejecución
 1. Clonar el repositorio:
