@@ -1,4 +1,4 @@
-# 🍳 Recetas App
+# 🍳 Recipe App
 
 Aplicación móvil de recetas de cocina desarrollada con **React Native** y **Expo**, con autenticación mediante **Clerk** y base de datos en **Neon** utilizando **Drizzle ORM**.
 
