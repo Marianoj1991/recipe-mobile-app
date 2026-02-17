@@ -34,11 +34,47 @@ La app consta de **6 pantallas**:
 6. **Logout**  
    - Pantalla de cierre de sesión.  
 
-## 🖼️ Capturas de pantalla
-*(Aquí podés agregar las imágenes de cada screen, por ejemplo en `/screenshots` o directamente en el README)*
+
+
 
 ## ⚙️ Instalación y ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/recetas-app.git
-   cd recetas-app
+   git clone https://github.com/Marianoj1991/recipe-mobile-app
+   cd recipe-mobile-app
+1. - Abrir dos terminales (una para backend y otra para frontend):
+   ```bash
+   cd backend
+   npm install
+   npm run dev
+    ```
+    ```bash
+    cd frontend
+    npm install
+    npx expo start
+
+
+
+## 📸 Capturas de pantalla
+
+### Sign In Screen
+<img src="./screenshots/sign-in-screen.png" alt="Login Screen" width="200"/>
+
+### Sign Up Screen
+<img src="./screenshots/sign-up-screen.png" alt="Logout Screen" width="200"/>
+
+### Home Screen
+<img src="./screenshots/home-screen.png" alt="Home Screen" width="200"/>
+
+<img src="./screenshots/category-selected.png" alt="Home Screen" width="200"/>
+
+### Search Screen
+<img src="./screenshots/search-screen.png" alt="Search Screen" width="200"/>
+
+### Favorites Screen
+<img src="./screenshots/favorites-screen.png" alt="Favorites Screen" width="200"/>
+
+<img src="./screenshots/favorites-screen-recipe.png" alt="Favorites Screen" width="200"/>
+
+### Recipe detail Screen
+<img src="./screenshots/recipe-detail-screen.png" alt="Recipe Detail Screen" width="200"/>
